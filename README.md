@@ -6,5 +6,5 @@ Wang H, Pan Q, Tang J. MHPD: an efficient evaluation method for influence maximi
   
 DOI: https://doi.org/10.1016/j.cnsns.2024.108268
 
-Article link: https://www.sciencedirect.com/science/article/pii/S1007570424004532
+Article link: https://www.sciencedirect.com/science/article/pii/S1007570424004532  
 Author open source sharing link: https://authors.elsevier.com/a/1jdwU3b655DN%7Eq
